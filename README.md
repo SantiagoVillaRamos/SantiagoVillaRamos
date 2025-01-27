@@ -23,6 +23,7 @@
 
 - <a href="https://github.com/SantiagoVillaRamos/Proyecto-Web-Empresa.-Registro-y-Chat-de-Usuarios.">Proyecto Web Empresa. Registro y Chat de Usuarios.</a>💻
 - <a href="https://github.com/SantiagoVillaRamos/Mi_Web">Un sitio web personal desarrollado con Django, un framework web de Python. </a>🤳
+- <a href="https://github.com/SantiagoVillaRamos/La-Cafeteria">La Cafetería:  aplicación web desarrollada en Django que simula el sitio web de una cafetería.</a>☕
 
 <br/>
 <h2>¡Certificados!📃</h2>
