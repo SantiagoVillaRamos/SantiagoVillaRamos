@@ -21,8 +21,8 @@
 <h2>¡Algunos de mis proyectos! 🎨</h2>
 <br/>
 
-<a href="https://github.com/SantiagoVillaRamos/Proyecto-Web-Empresa.-Registro-y-Chat-de-Usuarios.">- Proyecto Web Empresa. Registro y Chat de Usuarios.</a>💻
-<a href="https://github.com/SantiagoVillaRamos/Mi_Web">Un sitio web personal desarrollado con Django, un framework web de Python. </a>🤳
+- <a href="https://github.com/SantiagoVillaRamos/Proyecto-Web-Empresa.-Registro-y-Chat-de-Usuarios.">Proyecto Web Empresa. Registro y Chat de Usuarios.</a>💻
+- <a href="https://github.com/SantiagoVillaRamos/Mi_Web">Un sitio web personal desarrollado con Django, un framework web de Python. </a>🤳
 
 <br/>
 <h2>¡Certificados!📃</h2>
